@@ -44,11 +44,11 @@ int main() {
     // Print the sorted array
     for (int i = 0; i < s; i++) {
         cout << arr[i] << "\t";
+        
     }
 
     return 0;
 }
 
-time complecity = o(n2)
-avg case = (n2)
+
 
